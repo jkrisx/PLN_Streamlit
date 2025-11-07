@@ -10,6 +10,7 @@
 *.rar
 ~$*
 
+#folder yang diabaikan
 Analisis Lendutan/*
 archieve/*
 Danger Tree/*
