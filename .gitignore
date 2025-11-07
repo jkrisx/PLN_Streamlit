@@ -1,0 +1,21 @@
+# Ignore Microsoft Office files
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.csv
+*.zip
+*.rar
+~$*
+
+Analisis Lendutan/*
+archieve/*
+Danger Tree/*
+Presentasi/*
+backup/*
+PLN_Streamlit/Lib/*
+PLN_Streamlit/Scripts/*
+PLN_Streamlit/etc/*
+PLN_Streamlit/share/*

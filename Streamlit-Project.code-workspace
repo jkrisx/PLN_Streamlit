@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Streamlit/Streamlit"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}

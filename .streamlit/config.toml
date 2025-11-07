@@ -1,0 +1,40 @@
+[theme]
+# Pilih tema dasar: "light" atau "dark"
+base = "light"
+
+# Warna utama (digunakan untuk highlight, focus, dll)
+primaryColor = "steelblue"
+
+# Warna background utama aplikasi
+backgroundColor = "#FFFFFF"
+
+# Warna background sekunder (untuk input, header tabel, dll)
+secondaryBackgroundColor = "#F0F2F6"
+
+# Warna teks utama
+textColor = "#262730"
+
+# Warna border untuk elemen-elemen seperti tombol, input, dll
+borderColor = "#CCCCCC"
+
+# Warna border untuk tabel/dataframe
+dataframeBorderColor = "#CCCCCC"
+
+# Apakah border widget selalu ditampilkan (jika false, hanya muncul saat fokus)
+showWidgetBorder = true
+
+# Radius border (bisa: "sm", "md", "lg", "full")
+baseRadius = "lg"
+buttonRadius = "md"
+
+# Apakah sidebar memiliki border
+showSidebarBorder = true
+
+# [Opsional] Ganti tema di sidebar
+[theme.sidebar]
+primaryColor = "purple"
+backgroundColor = "#F9F9F9"
+secondaryBackgroundColor = "#EFEFEF"
+textColor = "#333333"
+borderColor = "#AAAAAA"
+baseRadius = "lg"
